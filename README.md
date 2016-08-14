@@ -32,7 +32,7 @@ MIT. See the LICENSE file for the copyright notice.
 
 [[1]] F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Trans. Interact. Intell. Syst. 5, 4, Article 19 (December 2015).
 
-[[2]] MovieLens 1M Dataset. http://grouplens.org/datasets/movielens/1m/. Last downloaded 2016-08-14
+[[2]] MovieLens 1M Dataset. http://grouplens.org/datasets/movielens/1m/. Last downloaded 2016-08-14.
 
 [1]: http://dx.doi.org/10.1145/2827872
 [2]: http://grouplens.org/datasets/movielens/1m/
