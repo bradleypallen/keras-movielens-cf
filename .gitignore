@@ -1,7 +1,4 @@
-20_newsgroup/*
-glove.6B/*
 ml-1m/*
-*.h5
-Pretrained*
 .ipynb_checkpoints
 .DS_Store
+*.pyc
