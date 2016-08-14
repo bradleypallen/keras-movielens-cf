@@ -14,7 +14,7 @@ The notebooks provided the following workflows:
 ## Requirements
 
 * Python 2.7
-* A copy of the Movielens 1M dataset [[2]].
+* A copy of the MovieLens 1M dataset, downloaded from [[2]].
 
 ## Dependencies
 
