@@ -2,3 +2,4 @@ ml-1m/*
 .ipynb_checkpoints
 .DS_Store
 *.pyc
+*~
