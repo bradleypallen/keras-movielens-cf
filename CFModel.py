@@ -5,8 +5,8 @@
 # outlined in [Alkahest](http://www.fenris.org/)'s blog post
 # [Collaborative Filtering in Keras](http://www.fenris.org/2016/03/07/collaborative-filtering-in-keras).
 #
-# License
-# - MIT.
+# License: MIT. See the LICENSE file for the copyright notice.
+#
 
 import numpy as np
 from keras.layers import Embedding, Reshape, Merge
