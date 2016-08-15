@@ -6,7 +6,7 @@ the MovieLens 1M Dataset [[1]] to show the effectiveness of the
 architecture. We see an MSE of around 0.85 on a held-out validation
 set after about 15 epochs.
 
-The notebooks provided the following workflows:
+The notebooks provide the following workflows:
 * MovieLens 1M ETL: loads and processes user, movie and ratings data to prepare them for input into the Keras model.
 * MovieLens Training: trains an instance of CFModel using the prepared MovieLens data.
 * MovieLens Recommendations: shows recommendations generated using the trained model for a given test user.
