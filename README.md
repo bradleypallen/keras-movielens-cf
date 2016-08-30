@@ -3,8 +3,10 @@
 A set of Jupyter notebooks demonstrating a simple Keras implmentation
 of matrix factorization for collaborative filtering. The notebooks use
 the MovieLens 1M Dataset [[1]] to show the effectiveness of the
-architecture. We see an MSE of around 0.85 on a held-out validation
-set after about 15 epochs.
+architecture. Using 120-dimensional embeddings for users and movies,
+we achieve an RMSE of 0.8622 on a held-out validation set after 15
+epochs, taking under 18 minutes on an AWS EC2 g2.2xlarge instance with an
+NVIDIA GRID K520 GPU.
 
 The notebooks provide the following workflows:
 * MovieLens 1M ETL: loads and processes user, movie and ratings data to prepare them for input into the Keras model.
